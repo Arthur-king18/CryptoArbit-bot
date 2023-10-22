@@ -1,4 +1,6 @@
 # CryptoArbit-bot
+## My first project, date of creation: September 2021
+
 
 ## Install dependencies
 
